@@ -53,3 +53,8 @@ Scenario Outline: All the taxi ranks within a given distance should be shown
 ## Test Microservices Automation
 
 REF: https://www.infoq.com/articles/microservices-bdd-interface-oriented/
+
+
+## BDD Javascript Jest Nodejs 
+
+https://dev.to/imsergiobernal/bdd-automated-testing-con-gherkin-y-jest-en-node-js-3hjg
